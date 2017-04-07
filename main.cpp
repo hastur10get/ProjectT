@@ -8,3 +8,8 @@ void cc()
 {
 
 };
+
+int main()
+{
+
+};
